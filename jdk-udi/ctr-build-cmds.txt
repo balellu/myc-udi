@@ -1,0 +1,3 @@
+podman login quay.io //username: pbalellu 
+podman build -t quay.io/pbalellu/jdk21-udi10 .
+podman push quay.io/pbalellu/jdk21-udi10
