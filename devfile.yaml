@@ -1,6 +1,6 @@
 schemaVersion: 2.2.0
 metadata:
-  name: demo-nodejs-app
+  name: udi-gen-app
 components:
   - container:
       image: quay.io/devfile/universal-developer-image:ubi10-latest
